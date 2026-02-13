@@ -8,7 +8,7 @@
 # 3. Get a direct download link for the zip file.
 # 4. Replace the placeholder link below with your direct download link.
 
-DOWNLOAD_LINK="<YOUR_DIRECT_DOWNLOAD_LINK_HERE>"
+DOWNLOAD_LINK="https://drive.google.com/uc?export=download&id=1TM4Pn0MXd-3aer5bzquTZy--qoz5eGH7"
 
 # --- DO NOT EDIT BELOW THIS LINE ---
 

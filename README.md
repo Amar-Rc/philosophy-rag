@@ -20,10 +20,20 @@ This project provides a Retrieval-Augmented Generation (RAG) system to answer qu
 
 ```bash
 git clone <repository-url>
-cd vivekananda-rag-github
+cd Vivekananda-rag
 ```
 
-### 2. Run the Setup Script
+### 2. Download the Data
+
+Run the `download_data.sh` script to download the necessary models, embeddings, and FAISS indices.
+
+```bash
+bash download_data.sh
+```
+
+*Note: You will need to edit the `download_data.sh` script and add your own direct download link for the data.*
+
+### 3. Run the Setup Script
 
 This will create a virtual environment and install all the necessary dependencies.
 
@@ -32,7 +42,7 @@ cd streamlit_app
 bash setup.sh
 ```
 
-### 3. Launch the App
+### 4. Launch the App
 
 ```bash
 source venv/bin/activate

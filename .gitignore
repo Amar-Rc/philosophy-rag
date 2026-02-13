@@ -1,0 +1,15 @@
+# Virtual Environment
+venv/
+*.venv
+
+# Data, models, and embeddings
+data/
+embeddings/
+models/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# System files
+.DS_Store

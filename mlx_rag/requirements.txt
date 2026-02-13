@@ -1,0 +1,14 @@
+# Apple Silicon Native Compute
+mlx-lm>=0.20.0
+mlx>=0.18.0
+
+# Vector Math & Search
+faiss-cpu>=1.7.4
+numpy>=1.26.0
+
+# Data & Embeddings
+pandas>=2.1.0
+pyarrow
+sentence-transformers>=2.2.2
+huggingface_hub
+matplotlib

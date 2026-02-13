@@ -1,0 +1,11 @@
+# Core Data Science
+numpy>=1.23.5
+pandas>=2.0.0
+pyarrow  # Required for reading Parquet files
+
+# Vector Search & Embeddings
+faiss-cpu>=1.7.4
+sentence-transformers>=2.2.2
+
+# M1/M2 Performance
+torch>=2.0.0  # Supports MPS (Metal Performance Shaders) acceleration

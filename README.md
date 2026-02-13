@@ -31,8 +31,6 @@ Run the `download_data.sh` script to download the necessary models, embeddings, 
 bash download_data.sh
 ```
 
-*Note: You will need to edit the `download_data.sh` script and add your own direct download link for the data.*
-
 ### 3. Run the Setup Script
 
 This will create a virtual environment and install all the necessary dependencies.

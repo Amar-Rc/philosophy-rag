@@ -1,4 +1,4 @@
-# Vivekananda RAG
+# Philosophy RAG
 
 This project provides a Retrieval-Augmented Generation (RAG) system to answer questions based on the complete works of Swami Vivekananda.
 
